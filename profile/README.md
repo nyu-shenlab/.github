@@ -12,11 +12,11 @@ Our research interests include:
 
 ## 📄 Selected Publications
 
-- **[ChatGPT and other large language models are double-edged swords](https://doi.org/10.1148/radiol.230184)**  
+- **[ChatGPT and other large language models are double-edged swords](https://doi.org/10.1148/radiol.230163)**  
   *Radiology, 2023*  
   Yiqiu Shen, Laura Heacock, Jonathan Elias, Keith D. Hentel, Beatriu Reig, et al.
 
-- **[Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams](https://www.nature.com/articles/s41467-021-25376-2)**  
+- **[Artificial intelligence system reduces false-positive findings in the interpretation of breast ultrasound exams](https://www.nature.com/articles/s41467-021-26023-2)**  
   *Nature Communications, 2021*  
   Yiqiu Shen, Farah E. Shamout, Jamie R. Oliver, Jan Witowski, Kawshik Kannan, et al.
 
@@ -40,7 +40,7 @@ Our research interests include:
 
 ## 📬 Join Us
 
-We are actively seeking motivated Ph.D. students starting in 2024, as well as predoctoral researchers and visiting scholars interested in our research areas. If you're passionate about advancing AI in medical imaging, please refer to our [advising statement](https://docs.google.com/document/d/1Xz2V9VY2V9VY2V9VY2V9VY2V9VY2V9VY2V9VY2V9VY2V9) and reach out via email.
+We are actively seeking motivated Ph.D. students starting in 2024, as well as predoctoral researchers and visiting scholars interested in our research areas. If you're passionate about advancing AI in medical imaging, please refer to our [advising statement]([https://docs.google.com/document/d/1Xz2V9VY2V9VY2V9VY2V9VY2V9VY2V9VY2V9VY2V9VY2V9](http://docs.google.com/document/d/1dQK3Kf0pwar6h3O0DpON5JsasvvJ0D8_bzDcg9mCdw0/edit?tab=t.0#heading=h.kb22ffehltg7)) and reach out via email.
 
 ## 🔗 Connect
 
