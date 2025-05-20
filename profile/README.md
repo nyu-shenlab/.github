@@ -24,7 +24,7 @@ Our research interests include:
   *Medical Image Analysis, 2021*  
   Yiqiu Shen, Nan Wu, Jason Phang, Jungkyu Park, Kangning Liu, et al.
 
-- **[An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department](https://www.nature.com/articles/s41746-021-00450-4)**  
+- **[An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department](https://www.nature.com/articles/s41746-021-00453-0)**  
   *NPJ Digital Medicine, 2021*  
   Farah E. Shamout*, Yiqiu Shen*, Nan Wu*, Aakash Kaku*, Jungkyu Park*, et al.
 
